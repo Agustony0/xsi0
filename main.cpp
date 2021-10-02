@@ -116,8 +116,8 @@ int main()
 				break;
 			}
 		}
-		tabla();
 		if (x == false && o == false) {
+			tabla();
 			cout << "Remiza" << endl;
 		}
 		
