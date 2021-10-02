@@ -14,6 +14,7 @@ void tabla() {
 	cout << a[6] << " " << a[7] << " " << a[8]<<endl;
 }
 void win(){
+	//poate sa fie mai optimizat
 	//x
 	//linii
 	if (a[0] == 'x' && a[1] == 'x' && a[2] == 'x') 
